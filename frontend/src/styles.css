@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  background: #f5f6fa;
+}
+
+.card {
+  border-radius: 10px;
+}
+
+.table th {
+  font-weight: 600;
+  font-size: 0.85rem;
+}
